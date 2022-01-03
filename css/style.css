@@ -484,11 +484,11 @@ figure {
 
 #fh5co-about .img-wrap img {
   margin-bottom: 30px;
-  margin-left: 220px;
+  /* margin-left: 220px; */
 }
 #fh6co-about .img-wrap img {
   margin-bottom: 30px;
-  margin-left: 220px;
+  /* margin-left: 220px; */
 }
 @media screen and (max-width: 992px) {
   #fh5co-about .img-wrap img {
