@@ -500,6 +500,15 @@ figure {
 	}
 }
 
+.carousel-section {
+	margin-top: 50px;
+}
+
+.carousel-section h2 {
+	color: #fff;
+	font-family: "Satisfy", cursive;
+}
+
 #fh5co-featured-menu .fh5co-heading,
 #fh5co-gallery .fh5co-heading,
 #fh5co-reservation-form .fh5co-heading {
