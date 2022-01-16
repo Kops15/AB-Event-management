@@ -88,8 +88,12 @@ figure {
 }
 
 .catagories-container {
-  margin-top: 80px;
+  text-align: center;
+  margin-top: 40px;
   margin-bottom: 80px;
+}
+.catagories-container .title {
+  margin: 1px;
 }
 
 ::-webkit-selection {
@@ -526,7 +530,11 @@ figure {
 #fh5co-featured-menu .fh5co-heading,
 #fh5co-gallery .fh5co-heading,
 #fh5co-reservation-form .fh5co-heading {
-  margin-bottom: 170px;
+  margin-bottom: 50px;
+}
+
+#fh5co-gallery .title {
+  text-align: center;
 }
 @media screen and (max-width: 768px) {
   #fh5co-featured-menu .fh5co-heading,
@@ -794,7 +802,7 @@ figure {
   clear: both;
 }
 #fh5co-footer {
-  background-color: #1f221f;
+  background-color: #1f241f;
 }
 @media screen and (max-width: 768px) {
   #fh5co-slider,
