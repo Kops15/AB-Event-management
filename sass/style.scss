@@ -317,10 +317,10 @@ figure {
 							color: rgba(0, 0, 0, 0.7);
 						}
 					}
-					.dropdown {
-						// visibility: visible;
-						// opacity: 1;
-					}
+					// .dropdown {
+					// 	// visibility: visible;
+					// 	// opacity: 1;
+					// }
 				}
 			}
 
@@ -525,7 +525,6 @@ figure {
 #fh5co-gallery,
 #fh5co-reservation-form {
 	.fh5co-heading {
-		margin-bottom: 170px;
 		@media screen and (max-width: $screen-sm) {
 			margin-bottom: 50px;
 		}
