@@ -87,6 +87,11 @@ figure {
 	margin: 0 0 20px 0;
 }
 
+.catagories-container {
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+
 ::-webkit-selection {
 	color: #fff;
 	background: #ea272d;
@@ -500,6 +505,15 @@ figure {
 	}
 }
 
+.catagories-container h2 {
+	color: #fff;
+	font-family: "Satisfy", cursive;
+}
+
+.catagories-container h3 {
+	color: #fff;
+}
+
 .carousel-section {
 	margin-top: 50px;
 }
@@ -519,6 +533,12 @@ figure {
 	#fh5co-gallery .fh5co-heading,
 	#fh5co-reservation-form .fh5co-heading {
 		margin-bottom: 50px;
+	}
+	.catagories-container {
+		margin-left: 35px;
+	}
+	.catagories-container img {
+		margin-bottom: 20px;
 	}
 }
 #fh5co-featured-menu .fh5co-heading h2,
