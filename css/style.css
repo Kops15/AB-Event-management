@@ -484,6 +484,12 @@ figure {
 	line-height: 1.5;
 }
 
+.fh5co-section .title h2 {
+	font-family: "Satisfy", cursive;
+	color: #fff;
+	margin: 0 0 0 0;
+}
+
 .section-heading {
 	width: 100%;
 	float: left;
