@@ -490,6 +490,10 @@ figure {
 	margin: 0 0 0 0;
 }
 
+.fh5co-footer-links .a {
+	display: inline-block;
+}
+
 .section-heading {
 	width: 100%;
 	float: left;
@@ -547,6 +551,24 @@ figure {
 #fh5co-gallery .fh5co-heading,
 #fh5co-reservation-form .fh5co-heading {
 	margin-bottom: 50px;
+}
+
+#fh5co-contact h2 {
+	/* color: rgba(255, 255, 255, 0.7); */
+	color: #fff;
+	font-family: "Satisfy", cursive;
+}
+#fh5co-contact h3 {
+	color: rgba(255, 255, 255, 0.7);
+	font-family: "Satisfy", cursive;
+}
+
+#fh5co-contact h4 {
+	color: rgba(255, 255, 255, 0.7);
+}
+
+#fh5co-contact .address {
+	margin: 0 0 0 0;
 }
 
 #fh5co-gallery .title {
@@ -842,7 +864,7 @@ figure {
 #fh5co-content-section,
 #fh5co-contact,
 #fh5co-footer {
-	padding-top: 7em;
+	padding-top: 4em;
 	padding-bottom: 3em;
 	clear: both;
 }
