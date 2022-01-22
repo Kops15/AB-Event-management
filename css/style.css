@@ -87,13 +87,19 @@ figure {
 	margin: 0 0 20px 0;
 }
 
-.catagories-container {
-	text-align: center;
-	margin-top: 40px;
-	margin-bottom: 80px;
+.catagories-container h3 {
+	float: center;
 }
+
+.catagories-container h2,
+h1 {
+	text-align: center;
+	/* margin-top: 40px;
+	margin-bottom: 80px; */
+}
+
 .catagories-container .title h1 {
-	margin: 1px;
+	margin-top: 40px;
 	color: white;
 	font-family: "Monotype Corsiva", "Apple Chancery", "ITC Zapf Chancery",
 		"URW Chancery L", cursive;
@@ -151,7 +157,7 @@ figure {
 	}
 }
 .fh5co-nav #fh5co-logo {
-	font-size: 32px;
+	font-size: 28px;
 	margin: 0;
 	padding: 0;
 	font-weight: 700;
@@ -174,6 +180,9 @@ figure {
 @media screen and (max-width: 768px) {
 	.fh5co-nav .menu-1 {
 		display: none;
+	}
+	#fh5co-logo {
+		font-size: 28px;
 	}
 }
 .fh5co-nav ul {
@@ -474,7 +483,7 @@ figure {
 }
 
 .fh5co-section {
-	padding: 7em 0;
+	padding: 3em 0 0 0;
 }
 @media screen and (max-width: 480px) {
 	.fh5co-section {
@@ -536,7 +545,8 @@ figure {
 
 .catagories-container h2 {
 	color: #fff;
-	font-family: "Satisfy", cursive;
+	font-family: "Monotype Corsiva", "Apple Chancery", "ITC Zapf Chancery",
+		"URW Chancery L", cursive;
 }
 
 .catagories-container h3 {
@@ -863,7 +873,7 @@ figure {
 }
 
 .sticky-contact i {
-	color: green;
+	color: aliceblue;
 	display: inline-block;
 }
 
@@ -883,6 +893,36 @@ figure {
 	opacity: 1;
 }
 
+.sticky-whatsapp {
+	position: -webkit-sticky;
+	position: fixed;
+	cursor: pointer;
+	bottom: 0;
+	padding: 50px;
+	font-size: 25px;
+}
+
+.sticky-whatsapp i {
+	color: green;
+	display: inline-block;
+}
+
+.sticky-whatsapp > h3 {
+	visibility: hidden;
+	transition: visibility 0s, opacity 0.5s linear;
+	opacity: 0;
+	transition: all 500ms ease-out;
+}
+
+.sticky-whatsapp:hover h3 {
+	font-size: large;
+	font-family: "Monotype Corsiva", "Apple Chancery", "ITC Zapf Chancery",
+		"URW Chancery L", cursive;
+	display: inline-block;
+	visibility: visible;
+	opacity: 1;
+}
+
 #fh5co-slider,
 #fh5co-about,
 #fh5co-wireframe,
@@ -892,9 +932,9 @@ figure {
 #fh5co-content-section,
 #fh5co-contact,
 #fh5co-footer {
-	padding-top: 4em;
+	/* padding-top: 4em;
 	padding-bottom: 3em;
-	clear: both;
+	clear: both; */
 }
 
 #fh5co-about h1 {
