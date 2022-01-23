@@ -103,9 +103,8 @@ h1 {
 	font-size: 48px;
 	/* font-weight: ; */
 	color: white;
-	/* font-family: "Monotype Corsiva", "Apple Chancery", "ITC Zapf Chancery",
-		"URW Chancery L", cursive; */
 	font-family: "Tangerine", cursive;
+	font-size: 48px;
 }
 
 .more-container {
@@ -500,8 +499,8 @@ h1 {
 }
 
 .fh5co-section .title h2 {
-	font-family: "Monotype Corsiva", "Apple Chancery", "ITC Zapf Chancery",
-		"URW Chancery L", cursive;
+	font-family: "Tangerine", cursive;
+	font-size: 48px;
 	color: #fff;
 	margin: 0 0 0 0;
 }
@@ -518,8 +517,8 @@ h1 {
 .section-heading h1 {
 	font-style: 40px;
 	color: #fff;
-	font-family: "Monotype Corsiva", "Apple Chancery", "ITC Zapf Chancery",
-		"URW Chancery L", cursive;
+	font-family: "Tangerine", cursive;
+	font-size: 48px;
 }
 
 .more-container h5 {
@@ -548,8 +547,8 @@ h1 {
 
 .catagories-container h2 {
 	color: #fff;
-	font-family: "Monotype Corsiva", "Apple Chancery", "ITC Zapf Chancery",
-		"URW Chancery L", cursive;
+	font-family: "Tangerine", cursive;
+	font-size: 48px;
 }
 
 .catagories-container h3 {
@@ -574,20 +573,20 @@ h1 {
 #fh5co-featured-menu h1 {
 	font-style: 40px;
 	color: #fff;
-	font-family: "Monotype Corsiva", "Apple Chancery", "ITC Zapf Chancery",
-		"URW Chancery L", cursive;
+	font-family: "Tangerine", cursive;
+	font-size: 48px;
 }
 
 #fh5co-contact h1 {
 	/* color: rgba(255, 255, 255, 0.7); */
 	color: #fee856;
-	font-family: "Monotype Corsiva", "Apple Chancery", "ITC Zapf Chancery",
-		"URW Chancery L", cursive;
+	font-family: "Tangerine", cursive;
+	font-size: 48px;
 }
 #fh5co-contact h3 {
 	color: aliceblue;
-	font-family: "Monotype Corsiva", "Apple Chancery", "ITC Zapf Chancery",
-		"URW Chancery L", cursive;
+	font-family: "Tangerine", cursive;
+	font-size: 48px;
 }
 
 #fh5co-contact h4 {
@@ -605,8 +604,8 @@ h1 {
 #fh5co-gallery .title h1 {
 	color: #fff;
 	margin: 0 0 0 0;
-	font-family: "Monotype Corsiva", "Apple Chancery", "ITC Zapf Chancery",
-		"URW Chancery L", cursive;
+	font-family: "Tangerine", cursive;
+	font-size: 48px;
 }
 @media screen and (max-width: 768px) {
 	#fh5co-featured-menu .fh5co-heading,
@@ -661,7 +660,7 @@ h1 {
 	font-style: 20px;
 	color: #fee856;
 	margin-bottom: 20px;
-	font-size: 30px;
+	font-size: 42px;
 	display: block;
 }
 
@@ -669,8 +668,8 @@ h1 {
 .fh5co-item h3 {
 	font-style: 40px;
 	color: #fff;
-	font-family: "Monotype Corsiva", "Apple Chancery", "ITC Zapf Chancery",
-		"URW Chancery L", cursive;
+	font-family: "Tangerine", cursive;
+	font-size: 48px;
 }
 #fh5co-featured-menu .fh5co-item img,
 #fh5co-gallery .fh5co-item img,
@@ -889,8 +888,8 @@ h1 {
 
 .sticky-contact:hover h3 {
 	font-size: large;
-	font-family: "Monotype Corsiva", "Apple Chancery", "ITC Zapf Chancery",
-		"URW Chancery L", cursive;
+	font-family: "Tangerine", cursive;
+	font-size: 28px;
 	display: inline-block;
 	visibility: visible;
 	opacity: 1;
@@ -919,8 +918,8 @@ h1 {
 
 .sticky-whatsapp:hover h3 {
 	font-size: large;
-	font-family: "Monotype Corsiva", "Apple Chancery", "ITC Zapf Chancery",
-		"URW Chancery L", cursive;
+	font-family: "Tangerine", cursive;
+	font-size: 48px;
 	display: inline-block;
 	visibility: visible;
 	opacity: 1;
@@ -942,8 +941,13 @@ h1 {
 
 #fh5co-about h1 {
 	color: #fff;
-	font-family: "Monotype Corsiva", "Apple Chancery", "ITC Zapf Chancery",
-		"URW Chancery L", cursive;
+	font-family: "Tangerine", cursive;
+	font-size: 48px;
+}
+
+#fh5co-about .title {
+	font-family: "Tangerine", cursive;
+	font-size: 32px;
 }
 
 #fh5co-footer {
