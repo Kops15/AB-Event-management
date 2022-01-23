@@ -100,10 +100,12 @@ h1 {
 
 .catagories-container .title h1 {
 	margin-top: 40px;
+	font-size: 48px;
+	/* font-weight: ; */
 	color: white;
 	/* font-family: "Monotype Corsiva", "Apple Chancery", "ITC Zapf Chancery",
 		"URW Chancery L", cursive; */
-	font-family: "Monotype Corsiva";
+	font-family: "Tangerine", cursive;
 }
 
 .more-container {
